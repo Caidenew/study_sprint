@@ -1,5 +1,5 @@
 # Contributing
-
+-caiden
 Welcome to the team. We work the way a real software team works: every change
 rides in on its own branch, opens a pull request, gets one review, and only
 then merges. This file is the contract your squad agreed to on Founding Day.
